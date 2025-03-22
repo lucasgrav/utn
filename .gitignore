@@ -1,0 +1,13 @@
+# Archivos binarios y ejecutables
+*.exe
+*.out
+*.o
+*.obj
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Archivos de depuración
+*.dSYM/
+*.pdb
